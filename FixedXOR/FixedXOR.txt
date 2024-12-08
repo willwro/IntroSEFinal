@@ -1,0 +1,12 @@
+Challenge 2: Fixed XOR
+
+Collaborator(s): Donald Roberts
+
+For this challenge, the goal was to write a function that takes two equal-length buffers and produces their XOR combination.
+
+In the program: 
+  * Taking 1c0111001f010100061a024b53535009181c and hex decoding it,
+  * then hex decoding 686974207468652062756c6c277320657965,
+  * when XOR'd against each other should produce 746865206b696420646f6e277420706c6179
+
+To run, simply put the code from FixedXOR_Code.cpp into a program and call the funciton.
