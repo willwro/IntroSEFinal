@@ -17,7 +17,7 @@
 #include <cryptopp/hex.h>
 
 using namespace std;
-using namespace CryptoPP; // found the fucker
+using namespace CryptoPP; // found the issue
 
 /*
 okay, need to:
