@@ -1,0 +1,7 @@
+To test the code with a test suite:
+
+1. Put both FixedXOR_Code.cpp and FixedXOR_Test.cpp into the same directory
+2. Set up testing environment with testing suite of choice (GoogleTest with Bazel was used to test)
+3. Test through Command Prompt using the test suite commands
+
+Only one test case needed to be tested, and the test is carried out to completion, ensuring that the reulting XOR sequence is the required sequence.
